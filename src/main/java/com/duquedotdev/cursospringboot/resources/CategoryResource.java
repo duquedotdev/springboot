@@ -1,9 +1,7 @@
 package com.duquedotdev.cursospringboot.resources;
 
 import com.duquedotdev.cursospringboot.entities.Category;
-import com.duquedotdev.cursospringboot.entities.User;
 import com.duquedotdev.cursospringboot.services.CategoryService;
-import com.duquedotdev.cursospringboot.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
